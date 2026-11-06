@@ -1,0 +1,30 @@
+Project Name: ODA Refugee Assistance Analysis
+
+Dataset: compressed_data.csv
+
+Language: Python
+
+Platform: Google Colab
+
+Libraries:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+Objective:
+To analyze international development assistance provided for refugee situations.
+
+Analysis Performed:
+- Data loading and exploration
+- Data cleaning
+- Missing value analysis
+- Year-wise assistance analysis
+- Donor country analysis
+- Recipient country analysis
+- Sector-wise analysis
+- Data visualization
+
+Project Status: Completed
+
+Commit Message: Add ODA refugee assistance EDA project
